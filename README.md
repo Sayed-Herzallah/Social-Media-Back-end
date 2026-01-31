@@ -1,6 +1,6 @@
 # 🌍 Social Media Platform - RESTful API
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](YOUR_REPO_LINK_HERE)
+[![Repo](https://github.com/Sayed-Herzallah/Social-Media-Back-end)](YOUR_REPO_LINK_HERE)
 ![Node.js](https://img.shields.io/badge/Node.js-20.x-green) ![Express.js](https://img.shields.io/badge/Express.js-4.x-lightgrey) ![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-green) ![License](https://img.shields.io/badge/License-MIT-blue)
 
 A high-performance, production-ready **Backend RESTful API** for a social networking platform. This project mimics real-world scenarios, focusing on **Complex Data Relationships**, **Database Optimization**, and scalable **Modular Architecture**.
